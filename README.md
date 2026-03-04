@@ -59,7 +59,7 @@ Example output:
 * 🟢 Normal (No Disease)
 The interface is designed to be **simple and user-friendly for medical image analysis**. 
 
-# Applications
+## Applications
 
 * Early disease detection
 * Medical image analysis
